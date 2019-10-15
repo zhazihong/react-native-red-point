@@ -5,7 +5,7 @@
 	"license": "MIT",
 	 "repository": {
 		"type": "git",
-		"url": "https://github.com/zhazihong/react-native-red-point"
+		"url": "git+https://github.com/zhazihong/react-native-red-point.git"
     },
 	"author": {
 		"name": "zhazihong"
